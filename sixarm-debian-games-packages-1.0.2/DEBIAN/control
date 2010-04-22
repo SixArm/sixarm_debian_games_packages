@@ -1,0 +1,10 @@
+Package: sixarm-debian-games-packages
+Version: 1.0.2
+Section: devel
+Priority: optional
+Architecture: all
+Depends: beneath-a-steel-sky, boswars, chromium, epiphany, extremetuxracer, extremetuxracer-extras, flightgear, freedroidrpg, fretsonfire, frozen-bubble, gcompris, gcompris-data, gcompris-sound-en, glob2, lbreakout2, nexui, nexuiz-music, neverball, openarena, pingus, rrootage, scorched3d, supertux, supertuxkart, torcs, tomatoes, vegastrike, vegastrike-music, wesnoth-all, wormux, xmoto, yofrankie
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: games packages we like to use
+ games packages we like to use together.
+
