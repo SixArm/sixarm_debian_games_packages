@@ -3,7 +3,7 @@ Version: 1.0.2
 Section: devel
 Priority: optional
 Architecture: all
-Depends: beneath-a-steel-sky, boswars, chromium, epiphany, extremetuxracer, extremetuxracer-extras, flightgear, freedroidrpg, fretsonfire, frozen-bubble, gcompris, gcompris-data, gcompris-sound-en, glob2, lbreakout2, nexui, nexuiz-music, neverball, openarena, pingus, rrootage, scorched3d, supertux, supertuxkart, torcs, tomatoes, vegastrike, vegastrike-music, wesnoth-all, wormux, xmoto, yofrankie
+Depends: beneath-a-steel-sky, boswars, chromium-bsu, chromium-bsu-data, epiphany, extremetuxracer, extremetuxracer-extras, flightgear, freedroidrpg, fretsonfire, frozen-bubble, gcompris, gcompris-data, gcompris-sound-en, glob2, lbreakout2, nexuiz, nexuiz-data, nexuiz-music, nexuiz-server, nexuiz-textures, neverball, openarena, pingus, rrootage, scorched3d, supertux, supertuxkart, torcs, tomatoes, wesnoth-all, wormux, xmoto, yofrankie
 Maintainer: Joel Parker Henderson <joel@sixarm.com>
 Description: games packages we like to use
  games packages we like to use together.
